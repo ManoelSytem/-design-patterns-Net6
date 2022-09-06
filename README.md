@@ -1,2 +1,3 @@
-# -design-patterns-Net6
-Exemplos de Design Patterns
+# Exemplos de Design Patterns
+Neste respositório encontram-se exemplos de design patterns em C#.
+MiniApis Net6 + Mediator
